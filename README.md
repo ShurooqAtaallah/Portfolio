@@ -13,13 +13,17 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+I got my Bachelor's Degree in Business Information Systems from the University of Tanta. 
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I am a collaborative team player showcasing exceptional analytical and critical thinking abilities, adept at excelling in high-pressure corporate settings.
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+Now, I wish to exploit my analytical skills in software testing. 
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+
+I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. 
+
+It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
@@ -53,8 +57,8 @@ __SQL databases__
   * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
-__Python fundamentals__
-  * can write simple functions and algorithms
+__Java fundamentals__
+  * can write simple functions
   * know when to use for and while
   * able to comprehend easy codes
 
@@ -84,21 +88,19 @@ __Mind maps & diagrams__
 
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
+__Software Engineering Basics - Software Quality Academy :__  
+*online courses (https://youtube.com/playlist?list=PLQUxWr2rTswnn7orjD90h-shNvf4S_3UY&si=IaC7LtMzOX46NkWx), YouTube*  
+An intensive course in ISTQB FL with Syllabus v4.0
+(https://youtube.com/playlist?list=PL594OqWI4Um7Uk6utSPMBoMqTd7odsSr_&si=32ZqVsI-_k3vL4YD)  
 
 __The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+*online course by DEPI*  
+A comprehensive course (162 h) in softwaretesting, covering skills in functional testing and test automation.   
 
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+__Selenium webdriver with Java__  
+*online course by QAcart Academy*  
+An intensive introductory course (20 h) to software automation. Quality content is one of the biggest QAcart providers of educational services tailored for software testers.
+([https://qacart.com/course/selenium-webdriver])
 
 
 ## Examples of my work
