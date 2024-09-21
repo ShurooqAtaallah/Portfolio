@@ -93,7 +93,7 @@ An intensive course in ISTQB FL with Syllabus v4.0
 
 __The 1st Online Institute of Software Testing__  
 *online course by DEPI*  
-A comprehensive course (162 h) in softwaretesting, covering skills in functional testing and test automation.   
+A comprehensive course (162 h) in software testing, covering skills in functional testing and test automation.   
 
 __Selenium webdriver with Java__  
 *online course by QAcart Academy*  
