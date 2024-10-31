@@ -26,17 +26,9 @@ It is a crucial step in my current career goal — to become a mid-level softwar
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/folders/1-9KtboK_-p6aQ3fonnhXgkvzaWT47TCG).
 
-## Skills
-
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
-
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
-
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+  * can perform manual functional testing of web applications
+  * gained hands-on experience by testing web applications created for educational purposes
 
 __API testing__
   * know the difference between SOAP and REST APIs
@@ -51,8 +43,8 @@ __Test documentation__
   * able to prepare comprehensive bug reports and provide detailed session reports
 
 __SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
+  * can write complex requests usingsubqueries
+  * familiar with the use of aliases  
   * know the difference between joins and unions and can use them in queries
 
 __Java fundamentals__
@@ -70,13 +62,6 @@ __TestRail__
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
 
 __Trello and Notion__
   * know how to use Kanban boards and track project progress
@@ -99,31 +84,3 @@ __Selenium webdriver with Java__
 *online course by QAcart Academy*  
 An intensive introductory course (20 h) to software automation. Quality content is one of the biggest QAcart providers of educational services tailored for software testers.
 ([https://qacart.com/course/selenium-webdriver])
-
-
-## Examples of my work
-
-### Test cases and work in TestRail
-
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
-
-
-### Bug reports and work in Jira
-
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
-
-## Books I have read
-__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
-
-__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
