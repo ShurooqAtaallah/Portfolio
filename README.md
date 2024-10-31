@@ -1,13 +1,8 @@
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
-- [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-- [Books I have read](#books-i-have-read)
 
 ## About me
 
@@ -76,8 +71,8 @@ __Software Engineering Basics - Software Quality Academy :__
 An intensive course in ISTQB FL with Syllabus v4.0
 (https://youtube.com/playlist?list=PL594OqWI4Um7Uk6utSPMBoMqTd7odsSr_&si=32ZqVsI-_k3vL4YD)  
 
-__The 1st Online Institute of Software Testing__  
-*online course by DEPI*  
+__Software Testing Track__  
+*by DEPI*  
 A comprehensive course (162 h) in software testing, covering skills in functional testing and test automation.   
 
 __Selenium webdriver with Java__  
